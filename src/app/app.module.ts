@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { CollectionComponent } from './pages/collection/collection.component';
 import { WantlistComponent } from './pages/wantlist/wantlist.component';
 import { HttpClientModule} from '@angular/common/http';
+
 @NgModule({
   declarations: [
     AppComponent,

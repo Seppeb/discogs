@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { BottomNavigation } from '@material-ui/core';
 
 @Component({
   selector: 'app-root',
